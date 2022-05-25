@@ -1,6 +1,7 @@
 ### Hi there 👋
 - ☠️ I wrote my first line of code three years ago! 
 -  :chart_with_upwards_trend: Most of these projects reflect my historical journey in code. 
+-  :grinning:Some of the coolest stuff here were projects I did with my classmates at a data analytics bootcamp. 
 -  :full_moon_with_face: I'm working on updating github with current projects that reflect what my code looks like at present. 
 - 👯 I’m looking to collaborate (for fun and learning) on academic research, analytics and digital humanities projects. 
 - :pizza: Python, SQL(newish!) and Julia( new!) are my jam.
