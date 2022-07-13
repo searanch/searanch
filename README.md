@@ -1,4 +1,4 @@
 ### Hi there 👋
-- I write code in Python, Julia and SQL. 
+- I write code in Python, Julia and SQL. :cowboy_hat_face
 - I can be reached at lizbaconjones at gmail dot com
 - or on Twitter @indybaconjones
